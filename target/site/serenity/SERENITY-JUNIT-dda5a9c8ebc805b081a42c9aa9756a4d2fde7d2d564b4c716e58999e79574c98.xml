@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Country Iso Code Search" skipped="0" tests="2" time="1.09" timestamp="2022-01-05 10:37:26"><testcase name="Search for a country ISO code according to your name"/><testcase name="Incorrect Search for a country ISO code according to your name"/></testsuite>
